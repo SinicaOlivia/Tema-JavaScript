@@ -14,7 +14,7 @@ let dayName = new Date();
         day = "Tuesday";
         break;
     case 3:
-        day = "Weendsday";
+        day = "Wednesday";
         break;
     case 4:
         day = "Thursday";

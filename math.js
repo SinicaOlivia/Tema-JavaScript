@@ -1,8 +1,8 @@
 ///exercitiul 2
 
-function tellFortune(N, Z, Y, X) {
-    return  X + Y + Z + N;
-   }
+// function tellFortune(N, Z, Y, X) {
+//     return  X + Y + Z + N;
+//    }
 
    var Z = ["Roxane", "Helen", "Tom", "Bogdan"];
    var X = ["Developer", "Seller", "Singer", "Mechanic"];
