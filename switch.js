@@ -1,3 +1,4 @@
+///exercitiul 3
 
 let dayName = new Date();
    let day = dayName.getDay();

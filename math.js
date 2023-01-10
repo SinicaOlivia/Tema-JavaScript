@@ -1,3 +1,4 @@
+///exercitiul 2
 
 function tellFortune(N, Z, Y, X) {
     return  X + Y + Z + N;
